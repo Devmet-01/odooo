@@ -1,2 +1,2 @@
-# odooo
+# odoo
 Odoo
